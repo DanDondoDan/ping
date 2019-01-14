@@ -1,3 +1,3 @@
 # ping
 
-skrypt ping prolects on Heroky
+skrypt ping projects on Heroky
